@@ -1,3 +1,19 @@
+# My config of nakarte.me with maps:
+## Base layers:
+* OpenStreetMap
+* OpenTopoMap
+* ESRI Sattelite
+* Yandex Sattelite
+* Google Sattelite
+* Bing Sattelite
+* Yandex Map
+* Google Map
+* Topomapper 1km (Soviet topo map)
+## Overlays:
+* OpenRailwayMap
+* Wikimapia
+
+# How to build and Original Readme from Wladich below
 [![tests status](https://github.com/wladich/nakarte/workflows/check/badge.svg)](https://github.com/wladich/nakarte/actions?query=workflow%3Atest)
 
 Source code of site http://nakarte.me (former http://nakarte.tk)
